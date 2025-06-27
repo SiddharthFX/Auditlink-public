@@ -1,0 +1,78 @@
+AuditLinkAI Hackathon Demo Video Script
+
+---
+
+[Opening: 0:00–0:20]
+Screen: Logo, landing page, subtle animation
+
+"Welcome to AuditLinkAI — the next-generation platform for smart contract security, powered by AI and seamless multi-wallet support. In this demo, I'll show you how AuditLinkAI makes blockchain auditing fast, accessible, and secure for everyone."
+
+---
+
+[Section 1: Modern Wallet Connection (0:20–1:00)]
+Screen: Navigation bar, click Connect button, show Thirdweb modal on desktop and mobile
+
+"Let's start with onboarding. AuditLinkAI now features a sleek, modern wallet connection experience, thanks to our integration with Thirdweb. Users can connect with MetaMask, Coinbase, Binance, SafePal, Kraken, and more — all in just a few clicks, on any device.
+
+The connect modal is fully mobile responsive, so whether you're on desktop or your phone, the experience is smooth and intuitive."
+
+---
+
+[Section 2: Dashboard & User Experience (1:00–1:40)]
+Screen: Connect wallet, show dashboard, highlight wallet icon, address, and buttons
+
+"Once connected, you're taken to a personalized dashboard. Here, you can see your connected wallet, manage your account, and access your audit badges.
+
+The dashboard is designed for clarity and ease of use, with large icons, clear navigation, and a modern, responsive layout that looks great on both desktop and mobile."
+
+---
+
+[Section 3: Earning and Viewing Badges (1:40–2:20)]
+Screen: Navigate to Badges page, show badge collection, stats, and download feature
+
+"AuditLinkAI rewards users for securing their smart contracts. On the Badges page, you can view all your earned audit verification badges, see your security stats, and even download badge metadata for your records.
+
+The badge grid is fully responsive, ensuring a seamless experience on any device."
+
+---
+
+[Section 4: Smart Auditing with AI (2:20–3:10)]
+Screen: Navigate to Smart Audit or AuditLab, show code input, run an audit, display results
+
+"At the heart of AuditLinkAI is our AI-powered smart contract auditing engine. Simply paste your Solidity code, and within seconds, our AI analyzes it for vulnerabilities, best practices, and optimization opportunities.
+
+You get instant, actionable feedback — making security accessible to both beginners and experts."
+
+---
+
+[Section 5: Learning & Growth (3:10–3:40)]
+Screen: Show AuditLab, learning roadmap, and toolkit
+
+"AuditLinkAI isn't just about auditing — it's about empowering developers. The AuditLab offers a complete learning roadmap, from blockchain fundamentals to advanced security, plus a toolkit of industry-standard resources to help you grow as a smart contract developer."
+
+---
+
+[Section 6: Security & Accessibility (3:40–4:10)]
+Screen: Show sign-out flow, mobile demo, and accessibility features
+
+"Security and accessibility are at the core of AuditLinkAI. Users can easily sign out, manage wallet connections, and get clear guidance for maximum safety.
+
+The entire platform is designed to be fast, smooth, and accessible — no matter your device or experience level."
+
+---
+
+[Closing: Call to Action (4:10–4:40)]
+Screen: Return to landing page, show logo, animated background
+
+"AuditLinkAI is redefining smart contract security with AI, modern UX, and multi-wallet support.
+
+Try it out, earn your badges, and join us in building a safer, smarter blockchain ecosystem.
+
+Thank you for watching — and happy auditing!"
+
+---
+
+[End: (4:40–5:00)]
+Screen: Social links, GitHub repo, "Powered by Thirdweb, Chainlink, and AI"
+
+"Find us on GitHub and follow our journey as we continue to innovate in Web3 security." 
